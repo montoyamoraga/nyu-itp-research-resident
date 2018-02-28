@@ -12,3 +12,7 @@ everything i did as a research resident between september 2017 - may 2018
 * codedescuela curso con guillermo montecinos
 * p5.js book to spanish
 * p5.js website i18n
+* personal blog
+* frequency sweep with dominic barrett, at babycastles
+* kinectron
+* work for maria jose contreras
