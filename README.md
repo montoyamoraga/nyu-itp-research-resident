@@ -8,3 +8,7 @@ everything i did as a research resident between september 2017 - may 2018
 * maquinitas
 * thesis advisor with yuli cai for kat sullivan's class
 * audio and midi workshop, soon
+* codedescuela encuentro de artes mediales julio 2018
+* codedescuela curso con guillermo montecinos
+* p5.js book to spanish
+* p5.js website i18n
