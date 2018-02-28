@@ -16,3 +16,5 @@ everything i did as a research resident between september 2017 - may 2018
 * frequency sweep with dominic barrett, at babycastles
 * kinectron
 * work for maria jose contreras
+* todos los segundos
+* tutorial for windows with nicolas escarpentier
