@@ -18,3 +18,4 @@ everything i did as a research resident between september 2017 - may 2018
 * work for maria jose contreras
 * todos los segundos
 * tutorial for windows with nicolas escarpentier
+* [tutorial for creating python modules](https://github.com/montoyamoraga/tutorial-python-module)
