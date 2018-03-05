@@ -19,3 +19,5 @@ everything i did as a research resident between september 2017 - may 2018
 * todos los segundos
 * tutorial for windows with nicolas escarpentier
 * [tutorial for creating python modules](https://github.com/montoyamoraga/tutorial-python-module)
+* marco guarino thesis
+* kinect and kinectron workshop chile
