@@ -2,7 +2,7 @@
 everything i did as a research resident between september 2017 - may 2018
 
 * helped students on icm
-* did servo-camera script for automating video by sam lavigne
+* did servo-camera script for automating video by sam lavigne https://github.com/montoyamoraga/servo_camera
 * art-notes
 * manuelscorza.com
 * maquinitas
