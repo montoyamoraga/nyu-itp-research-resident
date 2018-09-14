@@ -1,4 +1,11 @@
 # nyu-itp-research-resident
+
+## About
+
+This is a residency by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
+
+This residency was at [New York University](https://www.nyu.edu/)'s [Interactive Telecommunications Program](https://tisch.nyu.edu/itp) between September 2017 and May 2018.
+
 everything i did as a research resident between september 2017 - may 2018
 
 * mentored students on introduction to programming and physical computing.
