@@ -59,6 +59,7 @@ This is a list of projects I worked on during my residency.
 * [La Conquista](http://www.gam.cl/teatro/laconquista/): software design and development with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), for theater piece by [María José Contreras](http://www.mariajosecontreras.com/)
 * [manuelscorza](https://github.com/montoyamoraga/manuelscorza): my favorite author, books are out of print, I am transcribing them and uploading them
 * [maquinitas](https://github.com/maquinitas): software library for MIDI control of hardware instruments, intersection between computer music,  hardware-based electronic music, and generative music
+* [material-world](https://github.com/montoyamoraga/material-world): database of material possessions
 * [New Latin Wave Input/Output](https://github.com/montoyamoraga/new-latin-wave): curation of new media arts exhibit for the [New Latin Wave](https://newlatinwave.com/) festival, 2017 version
 * [p5.js website in Spanish](https://p5js.org/es/): release of the p5.js website in Spanish
 * [protest.py](https://github.com/montoyamoraga/protestpy): Python module for generative protesting material.
