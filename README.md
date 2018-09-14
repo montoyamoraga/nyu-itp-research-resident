@@ -35,6 +35,8 @@ This is a list of teaching assignments I took during residency.
   * [Utsav Chadha](https://vimeo.com/269195723)
   * [Yihan Chen](https://vimeo.com/269196064)
   * [Yueping wang](https://vimeo.com/269196197)
+* Teacher of [Live Coding and Midi 101](https://brooklynresearch.org/archive/#Live_coding_and_MIDI_101(1)) workshop at [Brooklyn Research](https://brooklynresearch.org/), April 21st 2018.
+* Teacher of [Live Coding](https://github.com/montoyamoraga/workshop-live-coding) workshop at [NYU Tisch](https://tisch.nyu.edu/), April 22nd 2018.
 * Guest lecturer at [Coded Escuela](http://codedescuela.cl/)'s  [Introducción a la programación creativa con p5.js](https://github.com/guillemontecinos/programacion_creativa_p5js), March 12th 2018.
 * Guest critique for [Sinestesia](http://sinestesia.cc/)'s [Espacios y Objetos Interactivos](http://www.sinestesia.cc/portfolio/espacios-interactivos) final class, taught by NYU ITP 2016 [Sergio Mora-Diaz](http://www.sergiomoradiaz.com/), March 17th 2018.
 * Lecturer of [Introducción a la programación y live coding con ChucK](http://ccesantiago.cl/musica/lab-escucha-creativa-homenaje-jose-vicente-asuar), at the XV Festival Internacional de Música Electroacústica de Chile, [Ai-Maako 2017](https://pueblonuevo.cl/eventos/aimaako-2017/), October 11th 2017.
@@ -45,9 +47,12 @@ This is a list of teaching assignments I took during residency.
 This is a list of projects I worked on during my residency.
 
 * [art-notes](https://github.com/montoyamoraga/art-notes): collection of notes related to arts.
+* [avatar](https://www.youtube.com/watch?v=8VrL_cz69gc): remote performance art piece, collaboration with [Yuli Cai](http://www.caiyuli.com/) and [Donald C. Shorter Jr.](https://www.donaldcshorterjr.com/), funded with a grant from NYU Tisch.
 * [bandurria](https://bandurria.io/): launch of own record label.
+* [cada-bit](https://github.com/cada-bit):  multimedia art projects about exhausting all the possibilites in audio and image.
 * [CODED Escuela](http://codedescuela.cl/): co-founding of media arts school in Spanish with NYU ITP 2016 [Natalia Cabrera](http://www.nataliacabrera.com/) and NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/)
 * [Domestik](https://github.com/montoyamoraga/domestik): software design and development and design with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), for performance piece by [María José Contreras](http://www.mariajosecontreras.com/)
+* Encuentro de artes mediales: first meetup of Chilean media artists, organized by [CODED Escuela](http://codedescuela.cl/), hosted by [Sinestesia](http://www.sinestesia.cc/), attendance of more than 40 people from all ages and backgrounds, March 10th 2018.
 * [Frequency Sweep](http://frequencysweep.com/): creation and curation of experimental audiovisual performances festival, with NYU ITP 2018 [Dominic Barrett](http://www.dominicbarrett.com/).
 * [Introducción a p5.js](https://processingfoundation.press/): release of the [Introduction to p5.js book](https://p5js.org/books/) in Spanish, in print and pay-what you want PDF.
 * [Kinectron](https://kinectron.github.io/): development of Kinectron website and tutorial material.
@@ -56,6 +61,7 @@ This is a list of projects I worked on during my residency.
 * [maquinitas](https://github.com/maquinitas): software library for MIDI control of hardware instruments, intersection between computer music,  hardware-based electronic music, and generative music
 * [New Latin Wave Input/Output](https://github.com/montoyamoraga/new-latin-wave): curation of new media arts exhibit for the [New Latin Wave](https://newlatinwave.com/) festival, 2017 version
 * [p5.js website in Spanish](https://p5js.org/es/): release of the p5.js website in Spanish
+* [protest.py](https://github.com/montoyamoraga/protestpy): Python module for generative protesting material.
 * [transparency](http://montoyamoraga.io/transparency/): digital database for self-portraiture.
 
 ## Tutorials
@@ -70,35 +76,14 @@ This is a list of tutorials I started writing during my residency.
 
 ## Talks
 
-* [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js in Spanish, with [Guillermo Montecinos](http://guillemontecinos.cl/), NYU ITP 2020.
-* [WordHack](https://www.facebook.com/events/148845942635987/): talk at [BabyCastles](https://babycastles.com/) about p5.js in Spanish, and own artwork, May 17th 2017.
-* [Coding Train / Processing Foundation](https://www.youtube.com/watch?v=_ePnvWDcV3Y): press release of p5.js new internationaliation educational material in Spanish, including p5.js website and book, with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/).
-* [Software for Artists Day #4](https://pioneerworks.org/programs/software-for-artists-day-4/): talk about my digital experiments in sound, portraiture and activistm, at [Pioneer Works](https://pioneerworks.org/), July 7th 2018.  
+* [Encuentro Abierto III | Escuela CAPA](https://www.facebook.com/events/696812513996294/), talk with [CODED Escuela] members about our work on media arts education, July 14th 2018.
+* [Software for Artists Day #4](https://pioneerworks.org/programs/software-for-artists-day-4/): talk about my digital experiments in sound, portraiture and activistm, at [Pioneer Works](https://pioneerworks.org/), July 7th 2018.
+* [WordHack](https://www.facebook.com/events/148845942635987/): talk at [BabyCastles](https://babycastles.com/) about p5.js in Spanish, and own artwork, May 17th 2018.
+* [Coding Train / Processing Foundation](https://www.youtube.com/watch?v=_ePnvWDcV3Y): press release of p5.js new internationaliation educational material in Spanish, including p5.js website and book, with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), April 13th 2018.
+* [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js in Spanish, with [Guillermo Montecinos](http://guillemontecinos.cl/), NYU ITP 2020, October 21st 2017.
 
-## Skills
-
-* Debugging while in crisis
-*
 
 ## Failures
 
-* I wish I was able to take more classes, bu
 * Applied to a PhD at MIT Media Lab and got rejected.
-
-
-* Wrote and taught the workshop Live coding and Midi 101 XX linkn and taught it at NYU ITP and Brooklyn Research XX Link XX Picture.
-* Organinzed with CODED our First Media Artists Meeetup on July 2018, which was attended by more than 40 people from all ages and backgrounds.
-* Helped my collaborator Guillermo Montecinos codedescuela curso con guillermo montecinos
-
-
-* Launched the p5.js website in Spanish version.
-* Started a personal blog XX link.
-* Created and curated with NYU ITP's Dominic Barrett the event Frequency Sweep, happening every six weeks at Babycastles NYC.
-* Helped the kinectron project by starting the website and its documentation and gallery pages.
-* work for maria jose contreras
-* todos los segundos
-* Tutorial for Windows with Nicolás Escarpentier XX Link
-* [tutorial-python-module modules](https://github.com/montoyamoraga/tutorial-python-module)
-* [tutorial-json](https://github.com/montoyamoraga/tutorial-json)
-
-* Wrote proposals for teaching classes at NYU ITP, NYU IDM, and NYU Dance.
+* Applied to a micro-residency at CultureHub and got rejected.
