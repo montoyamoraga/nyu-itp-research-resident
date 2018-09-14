@@ -151,4 +151,4 @@ This residency could not have been such an amazing experience without the suppor
   * [Lauren McCarthy](http://lauren-mccarthy.com/)
   * [Taeyoon Choi](http://taeyoonchoi.com/)
   * [Tyler Yin](https://tyleryin.co/)
-* Sorry to a lot of people I forgot to include, you all were were amazing to work with and helped me out a lot, thanks for your time and attention!
+* Everyone I forgot to mention, who was amazing to share with, thanks!
