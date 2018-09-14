@@ -91,7 +91,6 @@ This is a list of tutorials I started writing during my residency.
 
 * Application to PhD at MIT Media Lab
 * Application to micro-residency at CultureHub.
-* TODO: include more rejections.
 
 ## Shout-outs
 
