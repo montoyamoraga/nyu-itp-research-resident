@@ -35,22 +35,28 @@ This is a list of teaching assignments I took during residency.
   * [Utsav Chadha](https://vimeo.com/269195723)
   * [Yihan Chen](https://vimeo.com/269196064)
   * [Yueping wang](https://vimeo.com/269196197)
-* Guest critique for [Sinestesia](http://sinestesia.cc/)'s [Espacios y Objetos Interactivos] final class, taught by NYU ITP 2016 [Sergio Mora-Diaz](http://www.sergiomoradiaz.com/)
-* []
+* Guest lecturer at [Coded Escuela](http://codedescuela.cl/)'s  [Introducción a la programación creativa con p5.js](https://github.com/guillemontecinos/programacion_creativa_p5js), March 12th 2018.
+* Guest critique for [Sinestesia](http://sinestesia.cc/)'s [Espacios y Objetos Interactivos](http://www.sinestesia.cc/portfolio/espacios-interactivos) final class, taught by NYU ITP 2016 [Sergio Mora-Diaz](http://www.sergiomoradiaz.com/), March 17th 2018.
+* Lecturer of [Introducción a la programación y live coding con ChucK](http://ccesantiago.cl/musica/lab-escucha-creativa-homenaje-jose-vicente-asuar), at the XV Festival Internacional de Música Electroacústica de Chile, [Ai-Maako 2017](https://pueblonuevo.cl/eventos/aimaako-2017/), October 11th 2017.
+* Lecturer of [Introducción al sensor de movimiento Kinect con software Kinectron] at the [Graduate program of Arts](http://artes.uc.cl/postgrado-artes), [Pontificia Universidad Católica de Chile](http://www.uc.cl/), October 13th 2017.
 
 ## Projects
 
 This is a list of projects I worked on during my residency.
 
 * [art-notes](https://github.com/montoyamoraga/art-notes): collection of notes related to arts.
+* [bandurria](https://bandurria.io/): launch of own record label.
+* [CODED Escuela](http://codedescuela.cl/): co-founding of media arts school in Spanish with NYU ITP 2016 [Natalia Cabrera](http://www.nataliacabrera.com/) and NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/)
 * [Domestik](https://github.com/montoyamoraga/domestik): software design and development and design with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), for performance piece by [María José Contreras](http://www.mariajosecontreras.com/)
+* [Frequency Sweep](http://frequencysweep.com/): creation and curation of experimental audiovisual performances festival, with NYU ITP 2018 [Dominic Barrett](http://www.dominicbarrett.com/).
+* [Introducción a p5.js](https://processingfoundation.press/): release of the [Introduction to p5.js book](https://p5js.org/books/) in Spanish, in print and pay-what you want PDF.
 * [Kinectron](https://kinectron.github.io/): development of Kinectron website and tutorial material.
 * [La Conquista](http://www.gam.cl/teatro/laconquista/): software design and development with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), for theater piece by [María José Contreras](http://www.mariajosecontreras.com/)
 * [manuelscorza](https://github.com/montoyamoraga/manuelscorza): my favorite author, books are out of print, I am transcribing them and uploading them
 * [maquinitas](https://github.com/maquinitas): software library for MIDI control of hardware instruments, intersection between computer music,  hardware-based electronic music, and generative music
 * [New Latin Wave Input/Output](https://github.com/montoyamoraga/new-latin-wave): curation of new media arts exhibit for the [New Latin Wave](https://newlatinwave.com/) festival, 2017 version
 * [p5.js website in Spanish](https://p5js.org/es/): release of the p5.js website in Spanish
-* [Introducción a p5.js](https://processingfoundation.press/): release of the [Introduction to p5.js book](https://p5js.org/books/) in Spanish, in print and pay-what you want PDF.
+* [transparency](http://montoyamoraga.io/transparency/): digital database for self-portraiture.
 
 ## Tutorials
 
@@ -62,14 +68,12 @@ This is a list of tutorials I started writing during my residency.
 * [tutorial-python-module](https://github.com/montoyamoraga/tutorial-python-module): tutorial for writing your own Python modules.
 * [tutorial-servo-camera](https://github.com/montoyamoraga/tutorial-servo-camera): for controlling a servo connected to a webcam, developed for [Sam Lavigne](http://lav.io/)'s [Automating Video  class](https://github.com/antiboredom/automating-video-itp).
 
-
 ## Talks
 
 * [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js in Spanish, with [Guillermo Montecinos](http://guillemontecinos.cl/), NYU ITP 2020.
 * [WordHack](https://www.facebook.com/events/148845942635987/): talk at [BabyCastles](https://babycastles.com/) about p5.js in Spanish, and own artwork, May 17th 2017.
 * [Coding Train / Processing Foundation](https://www.youtube.com/watch?v=_ePnvWDcV3Y): press release of p5.js new internationaliation educational material in Spanish, including p5.js website and book, with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/).
 * [Software for Artists Day #4](https://pioneerworks.org/programs/software-for-artists-day-4/): talk about my digital experiments in sound, portraiture and activistm, at [Pioneer Works](https://pioneerworks.org/), July 7th 2018.  
-
 
 ## Skills
 
