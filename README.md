@@ -72,7 +72,7 @@ This is a list of tutorials I started writing during my residency.
 * [tutorial-kinectron](https://github.com/montoyamoraga/tutorial-kinectron): tutorial for [Kinectron](https://kinectron.github.io/) usage.
 * [tutorial-power-supplies](https://github.com/montoyamoraga/tutorial-power-supplies): tutorial about power supplies for media arts projects.
 * [tutorial-python-module](https://github.com/montoyamoraga/tutorial-python-module): tutorial for writing your own Python modules.
-* [tutorial-servo-camera](https://github.com/montoyamoraga/tutorial-servo-camera): for controlling a servo connected to a webcam, developed for [Sam Lavigne](http://lav.io/)'s [Automating Video  class](https://github.com/antiboredom/automating-video-itp).
+* [tutorial-servo-camera](https://github.com/montoyamoraga/tutorial-servo-camera): for controlling with Python a servo connected to a camera, for [Sam Lavigne](http://lav.io/)'s [Automating Video  class](https://github.com/antiboredom/automating-video-itp).
 
 ## Talks
 
