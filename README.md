@@ -8,11 +8,13 @@ This residency was at [New York University](https://www.nyu.edu/)'s [Interactive
 
 ## Residency
 
-## Tasks
+## Teaching
 
-This is a list of tasks I had during residency.
+This is a list of teaching assignments I took during residency.
 
-* Office hours with graduate students to help on their classes, focusing on introduction to programming.
+* Office hours with graduate students to help on their classes, focusing on introduction to programming in p5.js, Processing, HTML, JS, HTML, Python, Max.
+* Help teaching audio theory and practice for [Marina Zurkow](http://www.o-matic.com/)'s Communication Lab: Video and Sound class.
+* Help sessions for students in the [New Interfaces for Musical Expression class](https://itp.nyu.edu/nime/) by [Greg Shakar](https://itp.nyu.edu/itp/people/people.php?id=1192&group=All)
 * Resident with fellow [Yuli Cai](http://www.caiyuli.com/) for [Kat Sullivan](http://katsully.com/)'s thesis class, of 19 students, check out their thesis videos:
   * [Amanda Min-Jin Lee](https://vimeo.com/269184766)
   * [Bryan Hsu](https://vimeo.com/269185366)
@@ -33,15 +35,18 @@ This is a list of tasks I had during residency.
   * [Utsav Chadha](https://vimeo.com/269195723)
   * [Yihan Chen](https://vimeo.com/269196064)
   * [Yueping wang](https://vimeo.com/269196197)
+* Guest critique for [Sinestesia](http://sinestesia.cc/)'s [Espacios y Objetos Interactivos] final class, taught by NYU ITP alum [Sergio Mora-Diaz](http://www.sergiomoradiaz.com/)
+* []
 
 ## Projects
 
-This is a list of projects I started while during my residency.
+This is a list of projects I worked on during my residency.
 
 * [art-notes](https://github.com/montoyamoraga/art-notes): collection of notes related to arts.
 * [manuelscorza](https://github.com/montoyamoraga/manuelscorza): my favorite author, books are out of print, I am transcribing them and uploading them.
 * [maquinitas](https://github.com/maquinitas): software library for MIDI control of hardware instruments, intersection between computer music,  hardware-based electronic music, and generative music.
-
+* [p5.js website in Spanish](https://p5js.org/es/): release of the p5.js website in Spanish
+* [Introducción a p5.js](https://processingfoundation.press/): release of the Introduction to p5.js book in Spanish,
 
 ## Tutorials
 
@@ -50,21 +55,26 @@ This is a list of tutorials I started writing during my residency.
 * [tutorial-servo-camera]: for controlling a servo connected to a webcam, developed for [Sam Lavigne](http://lav.io/)'s [Automating Video  class](https://github.com/antiboredom/automating-video-itp).
 *
 
+## Talks
+
+* [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js i18n work, with [Guillermo Montecinos](http://guillemontecinos.cl/). 
+
 ## Skills
 
 * Debugging while in crisis
 *
 
+## Failures
 
-
-* mentored students on introduction to programming and physical computing.
+* I wish I was able to take more classes, bu
+* Applied to a PhD at MIT Media Lab and got rejected.
 
 
 * Wrote and taught the workshop Live coding and Midi 101 XX linkn and taught it at NYU ITP and Brooklyn Research XX Link XX Picture.
 * Organinzed with CODED our First Media Artists Meeetup on July 2018, which was attended by more than 40 people from all ages and backgrounds.
 * Helped my collaborator Guillermo Montecinos codedescuela curso con guillermo montecinos
-* Guest critique at the final class of Sinestesia's SPACES?? course on July 2018, on Santiago de Chile
-* Launched the Introduction to p5.js book in Spanish, available at processingfoundation.press XX link.
+
+
 * Launched the p5.js website in Spanish version.
 * Started a personal blog XX link.
 * Created and curated with NYU ITP's Dominic Barrett the event Frequency Sweep, happening every six weeks at Babycastles NYC.
@@ -74,7 +84,5 @@ This is a list of tutorials I started writing during my residency.
 * Tutorial for Windows with Nicolás Escarpentier XX Link
 * [tutorial-python-module modules](https://github.com/montoyamoraga/tutorial-python-module)
 * [tutorial-json](https://github.com/montoyamoraga/tutorial-json)
-* marco guarino thesis
-* kinect and kinectron introductory workshop Chile PUC Facultad de Teatro
+
 * Wrote proposals for teaching classes at NYU ITP, NYU IDM, and NYU Dance.
-* Got rejected for PhD at MIT Media Lab.
