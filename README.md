@@ -82,6 +82,10 @@ This is a list of tutorials I started writing during my residency.
 * [Coding Train / Processing Foundation](https://www.youtube.com/watch?v=_ePnvWDcV3Y): press release of p5.js new internationaliation educational material in Spanish, including p5.js website and book, with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), April 13th 2018.
 * [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js in Spanish, with [Guillermo Montecinos](http://guillemontecinos.cl/), NYU ITP 2020, October 21st 2017.
 
+## Awards
+
+* [Prix Ars Electronica 2018 - Digital Communities](https://ars.electronica.art/prix/en/winners/), Honorary mention for [p5.js](https://p5js.org/)
+
 ## Rejections
 
 * Application to PhD at MIT Media Lab
