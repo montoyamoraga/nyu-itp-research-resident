@@ -82,8 +82,69 @@ This is a list of tutorials I started writing during my residency.
 * [Coding Train / Processing Foundation](https://www.youtube.com/watch?v=_ePnvWDcV3Y): press release of p5.js new internationaliation educational material in Spanish, including p5.js website and book, with NYU ITP 2020 [Guillermo Montecinos](http://guillemontecinos.cl/), April 13th 2018.
 * [Processing Community Day 2017](https://www.youtube.com/watch?v=Ix5RTKRJW0A): talk about p5.js in Spanish, with [Guillermo Montecinos](http://guillemontecinos.cl/), NYU ITP 2020, October 21st 2017.
 
+## Rejections
 
-## Failures
+* Application to PhD at MIT Media Lab
+* Application to micro-residency at CultureHub.
+* TODO: include more rejections.
 
-* Applied to a PhD at MIT Media Lab and got rejected.
-* Applied to a micro-residency at CultureHub and got rejected.
+## Shout-outs
+
+This residency could not have been such an amazing experience without the support from:
+
+* Everyone at the NYU ITP classes 2016, 2017, 2018, 2019 that I had the pleasure to know <3 !
+* The NYU ITP Research Residents 2017/2018:
+  * [Aaron Parsekian](http://www.aaronparsekian.com/)
+  * [Chino Kim](http://chino.kim/)
+  * [Davíd Raphael Lockard](http://davidlockard.net/)
+  * [Jason Beck](https://tisch.nyu.edu/itp/itp-people/alumni/Residents/2017-2018/jason-beck)
+  * [Jen Kagan](http://www.jennnkagan.com/)
+  * [Juan José Egusquiza](https://www.jegusquizaf.com/)
+  * [Leon Eckert](http://leoneckert.com/)
+  * [Lisa Jamhoury](http://lisajamhoury.com/)
+  * [Mathura Govindarajan](https://mathuramg.com/)
+  * [Michelle Hessel](https://www.michellehessel.com/)
+  * [Nikita Huggins](http://www.nikitahuggins.com/)
+  * [Yuli Cai](http://www.caiyuli.com/)
+* NYU ITP faculty and staff, especially:
+  * [Allison Parrish](https://www.decontextualize.com/)
+  * [Andrew Lazarow](https://www.andrewlazarow.com/)
+  * [Dan O'Sullivan](https://tisch.nyu.edu/about/directory/itp/95379870)
+  * [Daniel Shiffman](https://shiffman.net/)
+  * [Gabe Barcia-Colombo](https://www.gabebc.com/)
+  * [Gene Kogan](http://genekogan.com/)
+  * [Jason Sigal](http://www.jasonsigal.cc/)
+  * [Justin Peake](https://justinpeake.com/)
+  * [Kat Sullivan](http://katsully.com/)
+  * [Kyle Greenberg](https://tisch.nyu.edu/itp/itp-people/alumni/Residents/2016-2017/kyle-greenberg)
+  * [Lauren McCarthy](http://lauren-mccarthy.com/)
+  * [Luisa Pereira](http://www.luisapereira.net/)
+  * [Marina Zurkow](http://www.o-matic.com/)
+  * [Marlon Evans](https://tisch.nyu.edu/about/directory/itp/103724202)
+  * [Midori Yasuda](https://tisch.nyu.edu/about/directory/itp/103999048)
+  * [Matt Romein](https://matt-romein.com/)
+  * [Mimi Yin](https://tisch.nyu.edu/about/directory/itp/717437654)
+  * [Nancy Hechinger](https://tisch.nyu.edu/about/directory/itp/104734430)
+  * [Rebecca Lieberman](https://www.rebeccalieberman.com/)
+  * [Rune Madsen](https://runemadsen.com/)
+  * [Sam Lavigne](http://lav.io/)
+  * [Sharon Lee de la Cruz](http://unoseistres.com/)
+  * [Shawn van Every](https://tisch.nyu.edu/about/directory/itp/1838206356)
+  * [Taeyoon Choi](http://taeyoonchoi.com/)
+  * [TK Broderick](https://yourfriendtk.com/)
+  * [Todd Bryant](http://toddjbryant.com/)
+  * [Tom Igoe](https://tigoe.com/)
+  * [Yotam Mann](https://yotammann.info/)
+* CODED Escuela:
+  * [Camila Colussi](https://www.camilacolussi.com/)
+  * [Christian Oyarzún](http://error404.cl/)
+  * [Guillermo Montecinos](http://guillemontecinos.cl/)
+  * [Natalia Cabrera](http://www.nataliacabrera.com/)
+* The Processing Foundation:
+  * [Casey Reas](http://caesuras.net/)
+  * [Cassie Tarakajian](https://cassietarakajian.com/)
+  * [Daniel Shiffman](https://shiffman.net/)
+  * [Lauren McCarthy](http://lauren-mccarthy.com/)
+  * [Taeyoon Choi](http://taeyoonchoi.com/)
+  * [Tyler Yin](https://tyleryin.co/)
+* Sorry to a lot of people I forgot to include, you all were were amazing to work with and helped me out a lot, thanks for your time and attention!
